@@ -1,7 +1,7 @@
 ### Example API endpoint rest client tests
 
 ### Get viewpoints in Bükk location
-GET http://localhost:3000/api/locations/Bükk/viewpoints
+GET http://localhost:3000/api/locations/Zempléni-hegység/viewpoints
 
 ### Modify viewpoint by id
 PATCH http://localhost:3000/api/viewpoints/1
